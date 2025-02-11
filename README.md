@@ -82,7 +82,7 @@ For more information, please refer to [Github’s official guide for cloning a r
 
 ### Contributing
 
-I welcome contributions to this list! Please follow these guidelines:
+I welcome contributions to this repository! Please follow these guidelines:
 
 * Ensure the resource is free and provides valuable cybersecurity training (unless it is for the [Recommended Paid Trainings](broken-reference) section).
 * Provide a concise reason for recommendation (i.e. Helped me get a job, contents were easy to understand)
