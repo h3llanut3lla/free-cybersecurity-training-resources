@@ -26,7 +26,7 @@ layout:
 [한국어 문서 바로가기](readme-1.md)
 {% endhint %}
 
-This is an open-source project that aims to uplift cybersecurity resilience by providing a curated list of free cybersecurity training resources. It’s designed for individuals who want to gain knowledge for entry roles in cybersecurity and small businesses and organisations looking to educate their new starters without ~~significant~~ financial investment. These resources cover various topics from general cyber security awareness to blue team and red team training resources.
+This is an open-source project that aims to uplift cybersecurity resilience by providing a curated list of free cybersecurity training resources. It’s designed for individuals who want to gain knowledge for entry roles in cybersecurity and small to medium-sized businesses and organisations looking to educate their new starters without ~~significant~~ financial investment. These resources cover various topics from general cyber security awareness to blue team and red team training resources.
 
 ### Why Free Training Matters for Cybersecurity Resilience
 
