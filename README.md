@@ -93,7 +93,7 @@ I welcome contributions to this list! Please follow these guidelines:
 
 ### Disclaimer
 
-This list is provided for informational purposes only. I do not endorse any specific resource and are not responsible for the content provided by external websites, nor am I financially affiliated with any of the content providers. The effectiveness of any training resource may vary. Always conduct your own research to ensure the resources meet your specific needs.
+This list is provided for informational purposes only. I do not endorse any specific resource and am not responsible for the content provided by external websites. I am not financially affiliated with any of the content providers. The effectiveness of any training resource may vary. Always conduct your own research to ensure the resources meet your specific needs.
 
 ### Jump right in!
 
