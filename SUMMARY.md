@@ -1,10 +1,11 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [안녕하세요](readme-1.md)
 
 ## Getting Started
 
-* [Page 2](getting-started/page-2.md)
+* [✍️ Note-taking](getting-started/note-taking.md)
 
 ## Basics
 

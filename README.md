@@ -9,7 +9,7 @@ layout:
   title:
     visible: true
   description:
-    visible: false
+    visible: true
   tableOfContents:
     visible: true
   outline:
@@ -20,7 +20,7 @@ layout:
 
 # Welcome
 
-한국어 문서 바로가기
+[한국어 문서 바로가기](readme-1.md)
 
 This is an open-source project that aims to uplift cybersecurity resilience by providing a curated list of free cybersecurity training resources. It’s designed for individuals who want to gain knowledge for entry roles in cybersecurity and small businesses and organisations looking to educate their new starters without ~~significant~~ financial investment. These resources cover various topics from blue team to red team and anything in between.
 
