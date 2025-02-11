@@ -1,5 +1,8 @@
 ---
 icon: hand-wave
+description: >-
+  This is an open-source project that aims to uplift cybersecurity resilience by
+  providing a curated list of free cybersecurity training resources.
 cover: https://gitbookio.github.io/onboarding-template-images/header.png
 coverY: 0
 layout:
