@@ -81,7 +81,7 @@ For more information, please refer to [Github’s official guide for cloning a r
 I welcome contributions to this list! Please follow these guidelines:
 
 * Ensure the resource is free and provides valuable cybersecurity training (unless it is for the [Recommended Paid Trainings](broken-reference) section).
-* Provide a clear and concise description of the resource.
+* Provide a concise reason for recommendation (i.e. Helped me get a job, contents were easy to understand)
 * Include a direct link to the resource.
 * Submit a pull request with your additions.
 * Ideas/feedback are welcomed under the _Discussions_ of this repository.

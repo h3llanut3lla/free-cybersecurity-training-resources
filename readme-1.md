@@ -90,8 +90,8 @@ layout:
 * 자료가 무료이고 가치 있는 사이버 보안 교육을 제공하는지 확인하세요. ([Recommended Paid Trainings](broken-reference) 제외)
 * 자료를 추천하는 이유 (예: 취직하는 데 도움이 되었다, 이해하기 쉬웠다 등)를 간단하게 명시해주세요.
 * 자료에 대한 직접 링크를 포함하세요.
-* 추가 사항과 함께 풀 리퀘스트를 제출하세요.
-* 한국어 버전도 만들고 싶지만 국내 지식과 경험이 부족하여 못하고 있습니다. 한국어로 된 좋은 자료나 번역 업무를 도와주실 분은 [hellanutella00@gmail.com](https://app.gitbook.com/u/mtfgfsWtRFarO3zFVoPmDvo2osx1) 으로 연락주세요.
+* 위 추가 사항과 함께 풀 리퀘스트를 제출하세요.
+* 한국어 버전도 만들고 싶지만 국내 지식과 경험이 부족하여 못하고 있습니다. 한국어로 된 좋은 자료나 번역 업무를 도와주실 분은 [hellanutella00@gmail.com](https://app.gitbook.com/u/mtfgfsWtRFarO3zFVoPmDvo2osx1) 으로 문의 주세요.
 * 아이디어 및 피드백은 이 리포지토리의 _Discussion&#x73;_&#xB97C; 이용해주세요.
 
 ### 면책 조항
