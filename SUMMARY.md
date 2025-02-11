@@ -4,8 +4,7 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Page 2](getting-started/page-2.md)
 
 ## Basics
 
@@ -15,3 +14,7 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
+
+## Blue Team Training Resources
+
+* [Page 1](blue-team-training-resources/page-1.md)
