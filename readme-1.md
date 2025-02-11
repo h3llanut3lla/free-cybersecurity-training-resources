@@ -1,8 +1,8 @@
 ---
 icon: hand-wave
 cover: >-
-  https://images.unsplash.com/photo-1602479185195-32f5cd203559?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxMHx8c291dGglMjBrb3JlYXxlbnwwfHx8fDE3MzkyNjMzNDJ8MA&ixlib=rb-4.0.3&q=85
-coverY: -111
+  https://images.unsplash.com/photo-1604079628040-94301bb21b91?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb2xvcnxlbnwwfHx8fDE3MzkyNzMyMTh8MA&ixlib=rb-4.0.3&q=85
+coverY: 0
 layout:
   cover:
     visible: true
@@ -100,5 +100,5 @@ layout:
 
 ### 지금 바로 시작하세요!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>사이버 시큐리티 여정의 필수 가이드</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>General Cyber Security Awareness</strong></td><td><em>모두</em>가 알아야 할 상식</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Blue Team Training Resources</strong></td><td>보안관제, 침투대응, 보안 엔지니어 등 을 위한 자료</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Red Team Training Resources</strong></td><td>해커들을 위한 자료</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Recommended Paid Trainings</strong></td><td>돈,시간,에너지가 아깝지 않은 유료 교육 트레이닝</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Cybersecurity Career Related Resources</strong></td><td>해외 정보보안 취업 관련 정보</td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>사이버 시큐리티 여정의 필수 가이드</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/clemens-van-lay-5eThdzpVqyE-unsplash.jpg">clemens-van-lay-5eThdzpVqyE-unsplash.jpg</a></td></tr><tr><td><strong>General Cyber Security Awareness</strong></td><td><em>모두</em>가 알아야 할 상식</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/flyd-mT7lXZPjk7U-unsplash.jpg">flyd-mT7lXZPjk7U-unsplash.jpg</a></td></tr><tr><td><strong>Blue Team Training Resources</strong></td><td>보안관제, 침투대응, 보안 엔지니어 등 을 위한 자료</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/steve-johnson-dVRD8E3XUGs-unsplash.jpg">steve-johnson-dVRD8E3XUGs-unsplash.jpg</a></td></tr><tr><td><strong>Red Team Training Resources</strong></td><td>해커들을 위한 자료</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/montylov-HyBXy5PHQR8-unsplash.jpg">montylov-HyBXy5PHQR8-unsplash.jpg</a></td></tr><tr><td><strong>Recommended Paid Trainings</strong></td><td>돈,시간,에너지가 아깝지 않은 유료 교육 트레이닝</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/jp-valery-blOLCO2K4M0-unsplash.jpg">jp-valery-blOLCO2K4M0-unsplash.jpg</a></td></tr><tr><td><strong>Cybersecurity Career Related Resources</strong></td><td>해외 정보보안 취업 관련 정보</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/clark-tibbs-oqStl2L5oxI-unsplash.jpg">clark-tibbs-oqStl2L5oxI-unsplash.jpg</a></td></tr></tbody></table>
 
