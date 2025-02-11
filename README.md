@@ -89,7 +89,7 @@ I welcome contributions to this list! Please follow these guidelines:
 * Include a direct link to the resource.
 * Submit a pull request with your additions.
 * Ideas/feedback are welcomed under the _Discussions_ of this repository.
-* I believe cybersecurity knowledge should be accessible to everyone, regardless of language. This project is looking for volunteers to translate this resource into different languages. Your language skills and local insights are invaluable! If you'd like to help with translation or have local resources to share, please reach out to [hellanutella00@gmail.com](https://app.gitbook.com/u/mtfgfsWtRFarO3zFVoPmDvo2osx1).
+* I believe basic cybersecurity knowledge should be accessible to everyone, regardless of language. This project is looking for contributors to translate this resource into different languages. Your language skills and local insights are invaluable! If you'd like to help with translation or have local resources to share, please reach out to [hellanutella00@gmail.com](https://app.gitbook.com/u/mtfgfsWtRFarO3zFVoPmDvo2osx1).
 
 ### Disclaimer
 
