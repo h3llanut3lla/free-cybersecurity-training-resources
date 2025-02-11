@@ -5,7 +5,7 @@
 
 ## Getting Started
 
-* [✍️ Note-taking](getting-started/note-taking.md)
+* [Note-taking](getting-started/note-taking.md)
 * [Googling](getting-started/googling.md)
 * [Learning Plan](getting-started/learning-plan.md)
 * [Study Aids](getting-started/study-aids.md)
