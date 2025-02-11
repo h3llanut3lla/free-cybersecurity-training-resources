@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [소개](readme-1.md)
+* [🇰🇷 소개](readme-1.md)
 
 ## Getting Started
 
@@ -26,7 +26,7 @@
 
 * [Page 4](recommended-paid-trainings/page-4.md)
 
-## Cybersecurity Career Related Resources
+## Cyber Security Career Related Resources
 
-* [Resume & CV](cybersecurity-career-related-resources/resume-and-cv.md)
-* [Interview](cybersecurity-career-related-resources/interview.md)
+* [Resume & CV](cyber-security-career-related-resources/resume-and-cv.md)
+* [Interview](cyber-security-career-related-resources/interview.md)
