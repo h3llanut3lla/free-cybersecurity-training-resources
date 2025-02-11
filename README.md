@@ -34,7 +34,7 @@ Cybersecurity resilience isn’t just about technology; it’s about people. Wel
 
 * Identify and avoid common threats like phishing, malware, social engineering, etc.
 * Practice good security hygiene
-* continuously learn; ensuring individuals stay up-to-date with the latest threats.
+* Continuously learn, ensuring individuals stay up-to-date with the latest threats.
 * Develop in-demand cybersecurity skills like incident response, vulnerability management, penetration testing, etc. (While fully comprehensive training often requires paid courses, hopefully, these resources can provide a foundation.)
 
 ### Curated Training Resources
