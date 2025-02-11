@@ -94,6 +94,7 @@ layout:
 
 이 목록은 정보 제공 목적으로만 제공됩니다. 저자는 특정 자료를 보증하지 않으며 외부 웹사이트에서 제공하는 콘텐츠에 대해 책임을 지지 않습니다. 모든 교육 자료의 효과는 다를 수 있습니다. 당사는 콘텐츠 제공자와 관련이 없습니다. 항상 자신의 조사를 통해 자료가 특정 요구 사항에 맞는지 확인하세요.
 
-### Jump right in
+### 지금 바로 시작하세요!
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Getting Started</td><td></td><td><a href="broken-reference">Broken link</a></td><td></td><td></td><td></td></tr><tr><td>Basics</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Blue Team Training Resources</td><td></td><td></td><td></td><td></td><td></td></tr><tr><td>Red Team Training Resources</td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>사이버 시큐리티 여정의 필수 가이드</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>General Cyber Security Awareness</strong></td><td><em>모두</em>가 알아야 할 상식</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Blue Team Training Resources</strong></td><td>보안관제, 침투대응, 보안 엔지니어 등 을 위한 자료</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Red Team Training Resources</strong></td><td>해커들을 위한 자료</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Recommended Paid Trainings</strong></td><td>돈,시간,에너지가 아깝지 않은 유료 교육 트레이닝</td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Cybersecurity Career Related Resources</strong></td><td>해외 정보보안 취업 관련 정보</td><td><a href="broken-reference">Broken link</a></td></tr></tbody></table>
+
