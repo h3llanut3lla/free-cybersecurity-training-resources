@@ -67,7 +67,7 @@ layout:
 * **리포지토리에 기여:** 새로운 자료를 배우고 발견하면 기여하는 것을 고려하세요. [기여하기](readme-1.md#undefined-5) 섹션을 참조하세요.&#x20;
 * **해외 사이버 보안 업종에 취직하기**: 해외 사이버보안 분야 취업을 원하신다면, [Cybersecurity Career Related Resources](broken-reference)를 참고하세요.
 
-### 이 저장소를 복제하고 사용하는 방법 (선택 사항)
+### 이 리포지토리를 복제하는 방법 (선택 사항)
 
 * 터미널 또는 명령 프롬프트를 여세요.
 * **Windows:**
@@ -82,7 +82,7 @@ layout:
     git clone [https://github.com/](https://github.com/)[your-username]/[repository-name].git
     ```
 
-자세한 내용은 [Github의 공식 저장소 복제 가이드](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository)를 참조하세요.
+자세한 내용은 [Github의 공식 리포지토리 복제 가이드](https://docs.github.com/ko/repositories/creating-and-managing-repositories/cloning-a-repository)를 참조하세요.
 
 ### 기여하기
 
