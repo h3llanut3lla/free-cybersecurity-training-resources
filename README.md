@@ -38,7 +38,11 @@ Cybersecurity resilience isn’t just about technology; it’s about people. Wel
 
 ### Curated Training Resources
 
-This list is based on general knowledge of the cybersecurity field, widespread recognition within the community, and, in some cases, personal experience with the resources. It is regularly updated. Please feel free to [contribute](./#contributing) by submitting pull requests with additional resources.
+This list is based on general knowledge of the cybersecurity field, widespread recognition within the community, and, in some cases, personal experience with the resources.&#x20;
+
+It is regularly updated.&#x20;
+
+Please feel free to [contribute](./#contributing) by submitting pull requests with additional resources.
 
 ### How to Use This Repository Effectively
 
