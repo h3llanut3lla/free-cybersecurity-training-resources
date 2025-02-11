@@ -25,3 +25,8 @@
 ## Recommended Paid Trainings
 
 * [Page 4](recommended-paid-trainings/page-4.md)
+
+## Cybersecurity Career Related Resources
+
+* [Resume & CV](cybersecurity-career-related-resources/resume-and-cv.md)
+* [Interview](cybersecurity-career-related-resources/interview.md)

@@ -49,6 +49,7 @@ Here are some ways to use it:
 5. **Practice with CTFs:** Capture the Flag (CTF) platforms are excellent for hands-on learning, and often include team competitions. Find your tribe to motivate and learn from each other.&#x20;
 6. **Take Advanced Courses:** When you are done with these resources, refer to the [Recommended Paid Trainings](broken-reference) that are worth your money, time, and effort.&#x20;
 7. **Contribute to the List:** As you learn and discover new resources, consider contributing them. See the [Contributing](./#contributing) section.
+8. **Get a Job in Cybersecurity:** If you are looking to find a job in cybersecurity, refer to [Cybersecurity Career Related Resources.](broken-reference)
 
 ### How to Clone and Use This Repository (Optional)
 
