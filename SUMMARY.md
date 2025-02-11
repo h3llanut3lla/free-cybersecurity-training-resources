@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [안녕하세요](readme-1.md)
+* [소개](readme-1.md)
 
 ## Getting Started
 
