@@ -46,9 +46,7 @@ For cybersecurity professionals working with code, here are some popular note-ta
 
 ## Tips
 
-## References
 
-1. [https://www.dataguard.com/blog/cyber-security-protocols-and-best-practices/](https://www.dataguard.com/blog/cyber-security-protocols-and-best-practices/)
 
 
 
