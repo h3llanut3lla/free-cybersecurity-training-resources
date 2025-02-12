@@ -1,7 +1,7 @@
 ---
 icon: hand-wave
 cover: >-
-  https://images.unsplash.com/photo-1604079628040-94301bb21b91?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxjb2xvcnxlbnwwfHx8fDE3MzkyNzMyMTh8MA&ixlib=rb-4.0.3&q=85
+  https://images.unsplash.com/photo-1517868674985-0525518ae392?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxrb3JlYXxlbnwwfHx8fDE3Mzk0MDI4ODl8MA&ixlib=rb-4.0.3&q=85
 coverY: 0
 layout:
   cover:
@@ -19,7 +19,7 @@ layout:
     visible: true
 ---
 
-# 소개
+# 🇰🇷 소개
 
 ## 무료 사이버 보안 트레이닝 자료
 
