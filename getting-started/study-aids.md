@@ -1,5 +1,9 @@
 ---
 icon: bandage
+description: Learning tips for when you don't feel like studying 😰
+cover: >-
+  https://images.unsplash.com/photo-1586473219010-2ffc57b0d282?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw4fHxyZWxpZXZlfGVufDB8fHx8MTczOTQxODcxMHww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Study Aids
