@@ -34,12 +34,12 @@ You need a learning plan because, as a student or someone with a full-time job, 
 
 ## Task Management Tool
 
-[I use TickTick(Pro)](https://ticktick.com) because I can easily manage my tasks by categories and see them on a calendar, which helps with time blocking and scheduling. It also has other useful features like the Pomodoro timer. Other similar tools might also work well for you.
+I've explored many task management tools, including Google Tasks, Microsoft To Do, Any.do, Todoist, Trello, ClickUp,  Apple Reminders, Fantastical, and even Notion. While each has its strengths, my current favorite is[ TickTick(Pro)](https://ticktick.com). Its particular blend of task categorization, calendar integration, pomodoro timer and quick support (I reported a bug and they fixed it immediately) resonates best with my workflow.
 
 Here are some popular options besides TickTick:  &#x20;
 
 * [**Google Tasks (Free)**](https://tasks.google.com)**:** Seamlessly integrates with Google Calendar. Simple and easy to use, especially if you're already in the Google ecosystem.  &#x20;
-* [**Microsoft To Do(Free)**](https://to-do.office.com/tasks/)**:** Integrates with Outlook Calendar. A good choice for those who use Microsoft products.  &#x20;
+* [**Microsoft To Do (Free)**](https://to-do.office.com)**:** Integrates with Outlook Calendar. A good choice for those who use Microsoft products.  &#x20;
 * [**Any.do**](https://www.any.do/)**:** Offers calendar integration and focuses on simplicity and ease of use.  &#x20;
 * [**Todoist (Pro)**](https://www.todoist.com)**:** A popular task manager with robust features, including calendar integration. Known for its flexibility and cross-platform support.  &#x20;
 * [**Notion (Free)**](https://www.notion.com)**:** While not strictly a task management app, Notion's flexibility allows you to create task databases and link them to calendar views. This makes it a powerful option for those who want an all-in-one workspace.
