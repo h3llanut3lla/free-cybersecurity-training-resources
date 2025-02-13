@@ -1,9 +1,9 @@
 ---
+icon: clipboard-list
 description: >-
   A well-structured learning plan is your roadmap to success. This page explains
   why you need one, how to create an effective plan, and the tools that can help
   you achieve your learning goals.
-icon: clipboard-list
 cover: >-
   https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFufGVufDB8fHx8MTczOTQxODUxN3ww&ixlib=rb-4.0.3&q=85
 coverY: -171
@@ -23,6 +23,10 @@ You need a learning plan because, as a student or someone with a full-time job, 
 * **Seeking measurable progress:** Tracking progress is essential for motivation and course correction. A plan facilitates monitoring your learning journey and celebrating milestones.
 
 ## How to Make a Learning Plan
+
+{% hint style="info" %}
+When creating your learning plan, remember to prioritize well-being and flexibility. Be sure to schedule dedicated time for rest, free time, and strategies for those inevitable moments when motivation wanes.
+{% endhint %}
 
 ### **No Due Date:**
 
