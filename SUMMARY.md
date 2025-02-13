@@ -17,6 +17,7 @@
 ## Blue Team Training Resources
 
 * [Trainings by Vendors](blue-team-training-resources/trainings-by-vendors.md)
+* [Staying Informed about Emerging Cyber Threats](blue-team-training-resources/staying-informed-about-emerging-cyber-threats.md)
 
 ## Red Team Training Resources
 
