@@ -3,6 +3,10 @@ description: >-
   This page include free training resources provided by vendors on endpoint
   security, SIEM and threat intelligence, cloud security, network security, and
   vulnerability management.
+icon: conveyor-belt-boxes
+cover: >-
+  https://images.unsplash.com/photo-1523633589114-88eaf4b4f1a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxibHVlfGVufDB8fHx8MTczOTM4Mjg1MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Trainings by Vendors
@@ -48,7 +52,7 @@ Microsoft offers various free resources and trials related to their Defender for
 
 ### Splunk
 
-Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts. They often have "Fundamentals 1" free. splunk.com
+Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts
 
 #### Recommended Trainings
 
@@ -67,7 +71,7 @@ Splunk offers free training courses through its Splunk Education platform, cover
 
 ### AWS
 
-AWS Security Training: Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. aws.training
+Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. aws.training
 
 #### Recommended Trainings
 
@@ -77,7 +81,12 @@ AWS Security Training: Amazon Web Services (AWS) offers a variety of free traini
 
 ### CloudFlare
 
-**Cloudflare:** Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.[cloudflare.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.cloudflare.com/)
+Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.[cloudflare.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.cloudflare.com/)
+
+#### Recommended Trainings
+
+* [Prevent DDoS attacks](https://developers.cloudflare.com/learning-paths/prevent-ddos-attacks/)
+* [Application Security](https://developers.cloudflare.com/learning-paths/application-security/) (Focus on `Security Center` chapter)
 
 ### Azure
 
