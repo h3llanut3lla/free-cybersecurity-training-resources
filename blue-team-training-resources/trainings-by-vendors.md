@@ -19,9 +19,28 @@ This page curates a collection of free training resources offered by various ven
 
 ## **Endpoint Security**
 
-* **CrowdStrike University:** While CrowdStrike is known for its endpoint protection platform, they also offer some free educational resources, including webinars and white papers, on threat hunting, incident response, and endpoint security. Check their website for current offerings. [crowdstrike.com](https://www.crowdstrike.com/)
-* **SentinelOne:** Similar to CrowdStrike, SentinelOne occasionally provides free resources like ebooks, blog posts, and webinars focusing on autonomous endpoint protection and threat hunting. [sentinelone.com](https://www.sentinelone.com/)
-* **Microsoft Defender for Endpoint:** Microsoft offers various free resources and trials related to their Defender for Endpoint security platform. This includes documentation, learning paths on Microsoft Learn, and sometimes free trials for evaluation. [microsoft.com/en-us/security](https://www.microsoft.com/en-us/security)
+### **Microsoft Defender for Endpoint**
+
+Microsoft offers various free resources and trials related to their Defender for Endpoint security platform. This includes documentation, learning paths on Microsoft Learn, and sometimes free trials for evaluation. [microsoft.com/en-us/security](https://www.microsoft.com/en-us/security)
+
+#### Recommended Learning Paths
+
+* [SC-200: Mitigate threats using Microsoft Defender XDR](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-365-defender/)
+* [SC-200: Mitigate threats using Microsoft Defender for Endpoint](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-microsoft-defender-for-endpoint/)
+* [SC-200: Mitigate threats using Microsoft Defender for Cloud](https://learn.microsoft.com/en-us/training/paths/sc-200-mitigate-threats-using-azure-defender/)
+* [SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)](https://learn.microsoft.com/en-us/training/paths/sc-200-utilize-kql-for-azure-sentinel/)
+* [SC-200: Perform threat hunting in Microsoft Sentinel](https://learn.microsoft.com/en-us/training/paths/sc-200-perform-threat-hunting-azure-sentinel/)
+
+#### Further Readings
+
+* [Learn the advanced hunting query language](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-query-language?view=o365-worldwide)
+* [Get expert training on advanced hunting](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-expert-training?view=o365-worldwide)
+* [Use shared queries in advanced hunting](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-shared-queries?view=o365-worldwide)
+* [Hunt for threats across devices, emails, apps, and identities](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-query-emails-devices?view=o365-worldwide)
+* [Hunt for ransomware](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-find-ransomware?view=o365-worldwide)
+* [Advanced hunting example for Microsoft Defender for Office 365](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-email-threats?view=o365-worldwide)
+* [Schema tables in Microsoft Defender XDR only](https://learn.microsoft.com/en-us/defender-xdr/advanced-hunting-migrate-from-mde?view=o365-worldwide#schema-tables-in-microsoft-defender-xdr-only)
+* [Microsoft Defender for Cloud Apps Ninja Training | June 2022](https://techcommunity.microsoft.com/blog/microsoft-security-blog/microsoft-defender-for-cloud-apps-ninja-training--june-2022/2751518)
 
 ## **SIEM and Threat Intelligence**
 
