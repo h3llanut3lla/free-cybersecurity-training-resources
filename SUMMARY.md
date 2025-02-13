@@ -17,8 +17,8 @@
 
 ## Blue Team Training Resources
 
-* [Trainings by Vendors](blue-team-training-resources/trainings-by-vendors.md)
 * [Free Trainings by Roles](blue-team-training-resources/free-trainings-by-roles.md)
+* [Trainings by Vendors](blue-team-training-resources/trainings-by-vendors.md)
 * [OSINT](blue-team-training-resources/osint.md)
 * [Staying Informed about Emerging Cyber Threats](blue-team-training-resources/staying-informed-about-emerging-cyber-threats.md)
 * [Certifications](blue-team-training-resources/certifications.md)

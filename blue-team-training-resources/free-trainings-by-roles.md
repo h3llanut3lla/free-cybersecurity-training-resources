@@ -1,3 +1,13 @@
+---
+description: >-
+  This page includes free trainings for security analyst, incident responder,
+  threat hunter, security engineer and vulnerability management analyst.
+icon: snowman-head
+cover: >-
+  https://images.unsplash.com/photo-1462556791646-c201b8241a94?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxibHVlfGVufDB8fHx8MTczOTM4Mjg1MXww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Free Trainings by Roles
 
 It's important to understand that fully comprehensive, professional-level training courses are rarely offered completely free. Vendors often use free resources as a way to introduce their products or services. However, there are many free and low-cost resources that can help you develop the skills needed for various blue team roles. Here's a breakdown by role and the types of free training you can leverage.
@@ -52,4 +62,3 @@ It's important to understand that fully comprehensive, professional-level traini
   * **OWASP Vulnerabilities:** Learn about common web application vulnerabilities through OWASP resources. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
   * **SANS Institute (Free Resources):** SANS offers some free resources related to vulnerability management. ([sans.org](https://www.sans.org/))
   * **Vulnerability Scanning Tutorials:** Search for free tutorials and guides on how to use vulnerability scanning tool
-
