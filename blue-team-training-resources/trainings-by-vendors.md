@@ -9,11 +9,13 @@ description: >-
 
 This page curates a collection of free training resources offered by various vendors to help blue team professionals enhance their skills in defending against cyber threats. Blue teams are responsible for the internal security of an organization, focusing on threat detection, prevention, and response.
 
+{% hint style="warning" %}
 ## **Important Considerations**
 
 * **Vendor Bias:** Be aware that vendor-provided training may emphasize their own products and solutions. While this can be useful, it's essential to supplement it with broader, vendor-neutral training.
 * **Hands-on Practice:** Free training is most effective when combined with hands-on practice. Consider setting up a virtual lab environment to apply what you learn.
 * **Stay Updated:** The cybersecurity landscape changes rapidly. Regularly check for new free training resources and keep your skills up-to-date.
+{% endhint %}
 
 ## **Endpoint Security**
 
