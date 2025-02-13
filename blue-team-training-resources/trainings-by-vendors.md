@@ -46,11 +46,33 @@ Microsoft offers various free resources and trials related to their Defender for
 
 ## **SIEM and Threat Intelligence**
 
-* **Splunk:** Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts. They often have "Fundamentals 1" free. [splunk.com](https://www.splunk.com/)
-*
-* **IBM Security:** IBM often provides free webinars, white papers, and trials related to their QRadar SIEM platform and other security solutions. [ibm.com/security](https://www.ibm.com/security)
+### Splunk
+
+Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts. They often have "Fundamentals 1" free. splunk.com
+
+### Microsoft Sentinel
+
+**Microsoft Sentinel:** Microsoft provides documentation, learning paths on Microsoft Learn, and occasionally free trials or workshops related to their cloud-native SIEM, Microsoft Sentinel. [microsoft.com/en-us/azure/sentine](https://www.google.com/search?q=https://www.microsoft.com/en-us/azure/sentinel)
+
+
 
 ## **Cloud Security**
+
+### AWS
+
+AWS Security Training: Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. aws.training
+
+### CloudFlare
+
+**Cloudflare:** Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.[cloudflare.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.cloudflare.com/)
+
+### Azure
+
+
+
+
+
+
 
 * **AWS Security Training:** Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. [aws.training](https://www.google.com/search?q=https://aws.training/)
 * **Azure Security Training:** Microsoft Azure provides free learning paths and modules on securing Azure cloud environments. Check their Microsoft Learn platform. [learn.microsoft.com](https://learn.microsoft.com/)
@@ -65,15 +87,5 @@ Microsoft offers various free resources and trials related to their Defender for
 * **Nessus Essentials:** Tenable offers a free version of their Nessus vulnerability scanner for home use, which can be a valuable tool for learning about vulnerability scanning and management. Note, this is for _personal_ use. [tenable.com](https://www.tenable.com/)
 * **Rapid7:** Rapid7 offers free resources like blog posts, webinars, and occasionally free tools or trials related to vulnerability management and their InsightVM product. [rapid7.com](https://www.rapid7.com/)
 
-## **Threat Hunting**
 
-* **MITRE ATT\&amp;CK:** While not a vendor, MITRE ATT\&amp;CK is an invaluable knowledge base of adversary tactics and techniques. It's an essential resource for blue teams and threat hunters. [mitre.org](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.mitre.org/)
-
-## **Incident Response**
-
-* **NIST Computer Security Incident Handling Guide:** NIST provides guidance and best practices for incident response, a critical skill for blue teams. [nist.gov](https://www.nist.gov/)
-
-## **Digital Forensics**
-
-* **SANS Institute:** SANS offers some free resources related to digital forensics, though their more in-depth training is typically paid.
 
