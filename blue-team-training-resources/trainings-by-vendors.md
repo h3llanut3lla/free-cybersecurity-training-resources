@@ -50,6 +50,13 @@ Microsoft offers various free resources and trials related to their Defender for
 
 Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts. They often have "Fundamentals 1" free. splunk.com
 
+#### Recommended Trainings
+
+* [Introduction to Splunk Security Essentials](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/guest/trqledetail/cours000000000003433?_gl=1*ghovfr*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjU0My4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.#/guest/trqledetail/cours000000000003433)
+* [SOC Essentials: Investigating with Splunk](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/common/ledetail/EDU-240123?_gl=1*1j0i03i*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjM2OC4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.)
+* [Security Operations and the Defense Analyst](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/guestapp/ledetail/cours000000000014180?_gl=1*ghovfr*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjU0My4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.)
+* [Understanding Threats and Attacks](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/guestapp/ledetail/cours000000000016580?_gl=1*uxwwvm*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjU0My4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.)
+
 ### Microsoft Sentinel
 
 **Microsoft Sentinel:** Microsoft provides documentation, learning paths on Microsoft Learn, and occasionally free trials or workshops related to their cloud-native SIEM, Microsoft Sentinel. [microsoft.com/en-us/azure/sentine](https://www.google.com/search?q=https://www.microsoft.com/en-us/azure/sentinel)
@@ -62,21 +69,21 @@ Splunk offers free training courses through its Splunk Education platform, cover
 
 AWS Security Training: Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. aws.training
 
+#### Recommended Trainings
+
+* [AWS Security Fundamentals](https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
+* [GuardDuty Understasnding and generating findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html)
+* [Remediating detected GuardDuty security findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_remediate.html)
+
 ### CloudFlare
 
 **Cloudflare:** Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.[cloudflare.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.cloudflare.com/)
 
 ### Azure
 
+Microsoft Azure provides free learning paths and modules on securing Azure cloud environments. Check their Microsoft Learn platform. [learn.microsoft.com](https://learn.microsoft.com/)
 
 
-
-
-
-
-* **AWS Security Training:** Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. [aws.training](https://www.google.com/search?q=https://aws.training/)
-* **Azure Security Training:** Microsoft Azure provides free learning paths and modules on securing Azure cloud environments. Check their Microsoft Learn platform. [learn.microsoft.com](https://learn.microsoft.com/)
-* **Google Cloud Security Training:** Google Cloud Platform (GCP) also offers free training resources focused on security in the GCP environment. [cloud.google.com/training](https://cloud.google.com/training)
 
 ## **Network Security**
 
