@@ -42,6 +42,7 @@ Here are some popular options besides TickTick:  &#x20;
 * [**Microsoft To Do(Free)**](https://to-do.office.com/tasks/)**:** Integrates with Outlook Calendar. A good choice for those who use Microsoft products.  &#x20;
 * [**Any.do**](https://www.any.do/)**:** Offers calendar integration and focuses on simplicity and ease of use.  &#x20;
 * [**Todoist (Pro)**](https://www.todoist.com)**:** A popular task manager with robust features, including calendar integration. Known for its flexibility and cross-platform support.  &#x20;
+* [**Notion (Free)**](https://www.notion.com)**:** While not strictly a task management app, Notion's flexibility allows you to create task databases and link them to calendar views. This makes it a powerful option for those who want an all-in-one workspace.
 
 
 
