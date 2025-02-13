@@ -17,11 +17,14 @@
 ## Blue Team Training Resources
 
 * [Trainings by Vendors](blue-team-training-resources/trainings-by-vendors.md)
+* [OSINT](blue-team-training-resources/osint.md)
 * [Staying Informed about Emerging Cyber Threats](blue-team-training-resources/staying-informed-about-emerging-cyber-threats.md)
+* [Certifications](blue-team-training-resources/certifications.md)
 
 ## Red Team Training Resources
 
 * [Trainings by Vendors](red-team-training-resources/trainings-by-vendors.md)
+* [Certifications](red-team-training-resources/certifications.md)
 
 ## Recommended Paid Trainings
 
