@@ -2,7 +2,7 @@
 
 It's important to understand that fully comprehensive, professional-level training courses are rarely offered completely free. Vendors often use free resources as a way to introduce their products or services. However, there are many free and low-cost resources that can help you develop the skills needed for various blue team roles. Here's a breakdown by role and the types of free training you can leverage.
 
-## **Security Analyst (Entry-Level/Junior):**
+## Security Analyst (Entry-Level/Junior)
 
 * **Focus:** Monitoring, log analysis, threat intelligence research, basic incident response.
 * **Free Training Resources:**
@@ -13,7 +13,7 @@ It's important to understand that fully comprehensive, professional-level traini
   * **NCSA and CISA Resources:** These organizations offer free guides and resources on various cybersecurity topics, including incident response and threat awareness. (NCSA: [staysafeonline.org](https://staysafeonline.org/), CISA: [cisa.gov](https://www.cisa.gov/))
   * **Practice Labs (Free/Low-Cost Options):** Try setting up a virtual lab environment using VirtualBox ([virtualbox.org](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.virtualbox.org/)) or VMware Player ([vmware.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.vmware.com/)). There are free vulnerable virtual machines available online (e.g., Metasploitable) that you can use for practice.
 
-## **Incident Responder**
+## Incident Responder
 
 * **Focus:** Incident handling, containment, eradication, recovery, forensics.
 * **Free Training Resources:**
@@ -23,7 +23,7 @@ It's important to understand that fully comprehensive, professional-level traini
   * **Open Source DFIR Tools:** Learn to use open-source digital forensics and incident response tools like The Sleuth Kit (TSK) and Autopsy. There are many free tutorials available online.
   * **MITRE ATT\&amp;CK Framework:** Understand how to use the MITRE ATT\&amp;CK framework for mapping adversary tactics, techniques, and procedures (TTPs) to incident response activities. ([mitre.org](https://www.mitre.org/))
 
-## &#x20;**Threat Hunter**
+## Threat Hunter
 
 * **Focus:** Proactive threat searching, identifying advanced persistent threats (APTs), and improving security posture.
 * **Free Training Resources:**
@@ -33,7 +33,7 @@ It's important to understand that fully comprehensive, professional-level traini
   * **Endpoint Detection and Response (EDR) Trials:** Many EDR vendors offer free trials that you can use to learn about threat hunting techniques in a real-world environment. (Be mindful of the limitations and sales focus.)
   * **Practice Labs:** Set up a virtual lab and practice threat hunting scenarios.
 
-## **Security Engineer**
+## Security Engineer
 
 * **Focus:** Designing, implementing, and maintaining security infrastructure.
 * **Free Training Resources:**
@@ -42,7 +42,7 @@ It's important to understand that fully comprehensive, professional-level traini
   * **Security Certifications (Study Materials):** While certification exams cost money, many certification bodies (e.g., CompTIA, (ISC)²) offer free study guides and resources that can be helpful.
   * **OWASP Resources:** If you're focused on web application security, OWASP provides a wealth of free information. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
 
-## **Vulnerability Management Analyst**
+## Vulnerability Management Analyst
 
 * **Focus:** Identifying, assessing, and remediating vulnerabilities.
 * **Free Training Resources:**
