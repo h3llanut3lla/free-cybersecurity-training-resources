@@ -24,7 +24,7 @@ When you're struggling with study motivation, it's easy to get discouraged. Here
 
 **6. Try a Different Study Method:** If your current study method isn't engaging, try something new. This could involve writing a tech blog about what you learned (Today I Learned) or competing in a CTF. &#x20;
 
-**8. Take a Break (Seriously):** Sometimes, the best thing you can do is step away from your studies entirely. Go for a walk, listen to music, or do something you enjoy. A short break can help you clear your head and return to your studies feeling refreshed. Just be sure to set a timer so you don't get sidetracked for too long.
+**7. Take a Break (Seriously):** Sometimes, the best thing you can do is step away from your studies entirely. Go for a walk, listen to music, or do something you enjoy. A short break can help you clear your head and return to your studies feeling refreshed. Just be sure to set a timer so you don't get sidetracked for too long.
 
-**10. Plan Ahead:** One of the best ways to avoid motivation slumps is to plan your study sessions in advance. Having a schedule and clear goals can make it easier to stay on track, even when you don't feel like studying.
+**8. Plan Ahead:** One of the best ways to avoid motivation slumps is to plan your study sessions in advance. Having a schedule and clear goals can make it easier to stay on track, even when you don't feel like studying.
 
