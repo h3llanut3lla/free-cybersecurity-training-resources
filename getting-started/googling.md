@@ -1,5 +1,9 @@
 ---
 description: Another useful skill to have in cybersecurity is googling
+icon: magnifying-glass
+cover: >-
+  https://images.unsplash.com/photo-1490127252417-7c393f993ee4?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw0fHxzZWFyY2h8ZW58MHx8fHwxNzM5NDE4MzY5fDA&ixlib=rb-4.0.3&q=85
+coverY: 0
 ---
 
 # Googling
