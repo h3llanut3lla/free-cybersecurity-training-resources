@@ -1,3 +1,14 @@
+---
+description: >-
+  A well-structured learning plan is your roadmap to success. This page explains
+  why you need one, how to create an effective plan, and the tools that can help
+  you achieve your learning goals.
+icon: clipboard-list
+cover: >-
+  https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwyfHxwbGFufGVufDB8fHx8MTczOTQxODUxN3ww&ixlib=rb-4.0.3&q=85
+coverY: -171
+---
+
 # Learning Plan
 
 ## Why Do You Need a Learning Plan
