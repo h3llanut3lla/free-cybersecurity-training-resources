@@ -34,7 +34,7 @@ You need a learning plan because, as a student or someone with a full-time job, 
 
 ## Task Management Tool
 
-I've explored many task management tools, including Google Tasks, Microsoft To Do, Any.do, Todoist, Trello, ClickUp,  Apple Reminders, Fantastical, and even Notion. While each has its strengths, my current favorite is[ TickTick(Pro)](https://ticktick.com). Its particular blend of task categorization, calendar integration, pomodoro timer and quick support (I reported a bug and they fixed it immediately) resonates best with my workflow.
+I've explored many task management tools, including Google Tasks, Microsoft To Do, Any.do, Todoist, Trello, ClickUp,  Apple Reminders, Fantastical, and even Notion. While each has its strengths, my current favorite is[ TickTick(Pro)](https://ticktick.com). Its particular blend of task categorization, calendar integration, pomodoro timer and quick support (I reported a bug and they fixed it immediately!) resonates best with my workflow.
 
 Here are some popular options besides TickTick:  &#x20;
 
