@@ -1,8 +1,9 @@
-# OSINT Free Trainings
+# OSINT
 
 ## What is OSINT?
 Open-source intelligence, or OSINT, involves gathering and analyzing publicly available information to produce useful insights.  It's like detective work using legally and ethically accessible data from sources like the internet, traditional media, government records, and academic research.  The goal isn't just to collect this data, but to analyze it for patterns and connections that can answer questions or achieve specific goals.  OSINT is used in many fields, from cybersecurity and national security to business and journalism.  In cybersecurity, blue teams use OSINT to understand threats, find vulnerabilities, respond to incidents, and improve security awareness.  Essentially, OSINT uses public information to gain knowledge and help protect organizations.
 
+## OSINT Free Trainings
 **1. Security Blue Team (SBT):**
 
   * **Introduction to OSINT:** This free course provides a solid foundation in OSINT, covering intelligence lifecycle, tools, and techniques for gathering information from various sources like search engines, social media, and the dark web.
