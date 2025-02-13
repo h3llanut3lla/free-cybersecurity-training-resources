@@ -41,7 +41,7 @@ Here are some popular options besides TickTick:  &#x20;
 * [**Google Tasks (Free)**](https://tasks.google.com)**:** Seamlessly integrates with Google Calendar. Simple and easy to use, especially if you're already in the Google ecosystem.  &#x20;
 * [**Microsoft To Do(Free)**](https://to-do.office.com/tasks/)**:** Integrates with Outlook Calendar. A good choice for those who use Microsoft products.  &#x20;
 * [**Any.do**](https://www.any.do/)**:** Offers calendar integration and focuses on simplicity and ease of use.  &#x20;
-* **T**[**odoist (Pro)**](https://www.todoist.com)**:** A popular task manager with robust features, including calendar integration. Known for its flexibility and cross-platform support.  &#x20;
+* [**Todoist (Pro)**](https://www.todoist.com)**:** A popular task manager with robust features, including calendar integration. Known for its flexibility and cross-platform support.  &#x20;
 
 
 
