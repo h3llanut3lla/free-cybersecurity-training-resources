@@ -12,7 +12,7 @@
 
 ## General Cyber Security Awareness
 
-* [Page 2](general-cyber-security-awareness/page-2.md)
+* [Free Training Resources for General Cybersecurity Awareness](general-cyber-security-awareness/free-training-resources-for-general-cybersecurity-awareness.md)
 
 ## Blue Team Training Resources
 
