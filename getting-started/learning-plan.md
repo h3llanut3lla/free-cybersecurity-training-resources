@@ -32,3 +32,16 @@ You need a learning plan because, as a student or someone with a full-time job, 
 6. **Track Progress and Adjust:** Regularly review your progress. If you fall behind, adjust your plan by either increasing study time or re-prioritizing tasks.
 7. **Build in Buffer Time:** Include buffer time for unexpected delays or if some tasks take longer than anticipated. This helps prevent last-minute cramming.
 
+## Task Management Tool
+
+[I use TickTick(Pro)](https://ticktick.com) because I can easily manage my tasks by categories and see them on a calendar, which helps with time blocking and scheduling. It also has other useful features like the Pomodoro timer. Other similar tools might also work well for you.
+
+Here are some popular options besides TickTick:  &#x20;
+
+* [**Google Tasks (Free)**](https://tasks.google.com)**:** Seamlessly integrates with Google Calendar. Simple and easy to use, especially if you're already in the Google ecosystem.  &#x20;
+* [**Microsoft To Do(Free)**](https://to-do.office.com/tasks/)**:** Integrates with Outlook Calendar. A good choice for those who use Microsoft products.  &#x20;
+* [**Any.do**](https://www.any.do/)**:** Offers calendar integration and focuses on simplicity and ease of use.  &#x20;
+* **T**[**odoist (Pro)**](https://www.todoist.com)**:** A popular task manager with robust features, including calendar integration. Known for its flexibility and cross-platform support.  &#x20;
+
+
+
