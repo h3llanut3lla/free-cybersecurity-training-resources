@@ -42,7 +42,7 @@ Open-source intelligence, or OSINT, involves gathering and analyzing publicly av
 
   * **CTF Challenges:** Capture the Flag (CTF) challenges often include OSINT components, allowing you to practice your skills in a fun and competitive environment. Websites like HackTheBox and OverTheWire offer CTF challenges.
 
-**Tips for Effective OSINT Training:**
+## Tips for Effective OSINT Training
 
   * **Start with the basics:** Understand the fundamental principles of OSINT, including legal and ethical considerations.
   * **Focus on your needs:** Identify the specific OSINT skills that are most relevant to your blue team role (e.g., threat intelligence, incident response).
