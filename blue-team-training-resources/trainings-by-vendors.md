@@ -21,7 +21,9 @@ This page curates a collection of free training resources offered by various ven
 
 ### **Microsoft Defender for Endpoint**
 
-Microsoft offers various free resources and trials related to their Defender for Endpoint security platform. This includes documentation, learning paths on Microsoft Learn, and sometimes free trials for evaluation. [microsoft.com/en-us/security](https://www.microsoft.com/en-us/security)
+Microsoft offers various free resources and trials related to their Defender for Endpoint security platform. This includes documentation, learning paths on Microsoft Learn, and sometimes free trials for evaluation.&#x20;
+
+{% embed url="https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification" %}
 
 #### Recommended Learning Paths
 
@@ -45,6 +47,7 @@ Microsoft offers various free resources and trials related to their Defender for
 ## **SIEM and Threat Intelligence**
 
 * **Splunk:** Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts. They often have "Fundamentals 1" free. [splunk.com](https://www.splunk.com/)
+*
 * **IBM Security:** IBM often provides free webinars, white papers, and trials related to their QRadar SIEM platform and other security solutions. [ibm.com/security](https://www.ibm.com/security)
 
 ## **Cloud Security**
@@ -61,4 +64,16 @@ Microsoft offers various free resources and trials related to their Defender for
 
 * **Nessus Essentials:** Tenable offers a free version of their Nessus vulnerability scanner for home use, which can be a valuable tool for learning about vulnerability scanning and management. Note, this is for _personal_ use. [tenable.com](https://www.tenable.com/)
 * **Rapid7:** Rapid7 offers free resources like blog posts, webinars, and occasionally free tools or trials related to vulnerability management and their InsightVM product. [rapid7.com](https://www.rapid7.com/)
+
+## **Threat Hunting**
+
+* **MITRE ATT\&amp;CK:** While not a vendor, MITRE ATT\&amp;CK is an invaluable knowledge base of adversary tactics and techniques. It's an essential resource for blue teams and threat hunters. [mitre.org](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.mitre.org/)
+
+## **Incident Response**
+
+* **NIST Computer Security Incident Handling Guide:** NIST provides guidance and best practices for incident response, a critical skill for blue teams. [nist.gov](https://www.nist.gov/)
+
+## **Digital Forensics**
+
+* **SANS Institute:** SANS offers some free resources related to digital forensics, though their more in-depth training is typically paid.
 
