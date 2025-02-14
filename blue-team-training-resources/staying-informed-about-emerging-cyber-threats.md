@@ -3,6 +3,9 @@ icon: square-rss
 description: >-
   This page provides practical guidance and resources on how to stay up-to-date
   with the ever-changing landscape of cyber threats.
+cover: >-
+  https://images.unsplash.com/photo-1586339949916-3e9457bef6d3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw5fHxuZXdzfGVufDB8fHx8MTczOTUwOTkzM3ww&ixlib=rb-4.0.3&q=85
+coverY: 96
 ---
 
 # Staying Informed about Emerging Cyber Threats
