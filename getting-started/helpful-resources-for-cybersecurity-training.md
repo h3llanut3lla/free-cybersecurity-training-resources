@@ -1,5 +1,6 @@
 ---
 icon: info
+description: Helpful resources for cybersecurity training
 cover: >-
   https://images.unsplash.com/photo-1563393934034-21b781d905ef?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxoZWxwfGVufDB8fHx8MTczOTQ5MTc0MHww&ixlib=rb-4.0.3&q=85
 coverY: 0
@@ -7,18 +8,16 @@ coverY: 0
 
 # Helpful Resources for Cybersecurity Training
 
-Here are some helpful resources for cybersecurity training, categorized for easier browsing:
-
 ## **Platforms with Courses and Learning Paths:**
 
-* **Coursera:** Offers courses from universities and organizations, some leading to professional certificates.1 (coursera.org)2
-* **edX:** Similar to Coursera, with a focus on university-level courses and programs.3 (edx.org)
-* **Udemy:** A large marketplace for online courses on a wide range of topics, including cybersecurity.4 (udemy.com)
-* **SANS Institute:** Known for its in-depth cybersecurity training courses and certifications.5 (sans.org)
-* **Offensive Security:** Focuses on penetration testing and ethical hacking training.6 (offensive-security.com)7
-* **Cybrary:** Offers free and paid cybersecurity training courses and virtual labs. (cybrary.it)
-* **Pluralsight:** Provides a wide range of tech and security training, including learning paths.8 (pluralsight.com)
-* **LinkedIn Learning (formerly Lynda.com):** Offers courses on various skills, including cybersecurity.9 ([linkedin.com/learning](https://www.google.com/url?sa=E\&source=gmail\&q=https://linkedin.com/learning))
+* [**Coursera**](https://www.coursera.org/)**:** Offers courses from universities and organizations, some leading to professional certificates.
+* [**edX**](https://www.edx.org/)**:** Similar to Coursera, with a focus on university-level courses and programs.
+* [**Udemy**](https://www.udemy.com)**:** A large marketplace for online courses on a wide range of topics, including cybersecurity.
+* [**SANS Institute**](https://www.sans.org)**:** Known for its in-depth cybersecurity training courses and certifications.
+* [**Offensive Security**](https://www.offsec.com)**:** Focuses on penetration testing and ethical hacking training.
+* [**Cybrary**](https://www.cybrary.it)**:** Offers free and paid cybersecurity training courses and virtual labs.&#x20;
+* [**Pluralsight**](https://www.pluralsight.com/)**:** Provides a wide range of tech and security training, including learning paths.
+* [**LinkedIn Learning (formerly Lynda.com):**](https://www.linkedin.com/learning) Offers courses on various skills, including cybersecurity.
 
 ## **Free Resources and Communities:**
 
