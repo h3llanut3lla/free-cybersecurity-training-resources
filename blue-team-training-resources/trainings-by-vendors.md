@@ -1,15 +1,15 @@
 ---
+icon: conveyor-belt-boxes
 description: >-
   This page include free training resources provided by vendors on endpoint
   security, SIEM and threat intelligence, cloud security, network security, and
   vulnerability management.
-icon: conveyor-belt-boxes
 cover: >-
   https://images.unsplash.com/photo-1523633589114-88eaf4b4f1a8?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxibHVlfGVufDB8fHx8MTczOTM4Mjg1MXww&ixlib=rb-4.0.3&q=85
 coverY: 0
 ---
 
-# Trainings by Vendors
+# Training by Vendors
 
 This page curates a collection of free training resources offered by various vendors to help blue team professionals enhance their skills in defending against cyber threats. Blue teams are responsible for the internal security of an organization, focusing on threat detection, prevention, and response.
 
@@ -52,9 +52,15 @@ Microsoft offers various free resources and trials related to their Defender for
 
 ### Splunk
 
+{% embed url="https://www.splunk.com/en_us/training/free-courses/overview.html" %}
+Splunk Free Training
+{% endembed %}
+
+
+
 Splunk offers free training courses through its Splunk Education platform, covering topics from basic searching and reporting to more advanced security information and event management (SIEM) concepts
 
-#### Recommended Trainings
+#### Recommended Training
 
 * [Introduction to Splunk Security Essentials](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/guest/trqledetail/cours000000000003433?_gl=1*ghovfr*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjU0My4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.#/guest/trqledetail/cours000000000003433)
 * [SOC Essentials: Investigating with Splunk](https://education.splunk.com/Saba/Web_spf/NA10P2PRD105/common/ledetail/EDU-240123?_gl=1*1j0i03i*_gcl_au*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*FPAU*MjAzNTQyMjQ5NS4xNzM2NDYzMTY2*_ga*MTEzMTc3MTMxMC4xNzI0MzAzOTMx*_ga_5EPM2P39FV*MTczODAxNjA0OS4zLjEuMTczODAxNjM2OC4wLjAuNzE0MTYyNjc5*_fplc*WXlzeiUyRlc3OUNHYlJMT2hWU3VZSEkzOXFCQWpVUjc0WnhoSkVSJTJGZThlenZEMndCWkNQbjg4NXZxWXlMYzJoMW80ZUg4ZiUyQlE4MFg4WGpIQko1R1VZMGpLMG10b20yaGglMkJNVkFBQmQlMkZqJTJCZyUyQlRvYUM1YVRDTzNQb3pSeEl0MkElM0QlM0Q.)
@@ -73,17 +79,19 @@ Splunk offers free training courses through its Splunk Education platform, cover
 
 Amazon Web Services (AWS) offers a variety of free training resources on cloud security best practices, covering topics like identity and access management, data protection, and infrastructure security. Look for their Skills Builder and other free digital training. aws.training
 
-#### Recommended Trainings
+#### Recommended Training
 
 * [AWS Security Fundamentals](https://explore.skillbuilder.aws/learn/courses/48/aws-security-fundamentals-second-edition)
-* [GuardDuty Understasnding and generating findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html)
+* [GuardDuty Understanding and generating findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_findings.html)
 * [Remediating detected GuardDuty security findings](https://docs.aws.amazon.com/guardduty/latest/ug/guardduty_remediate.html)
 
 ### CloudFlare
 
-Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.[cloudflare.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.cloudflare.com/)
+Cloudflare offers various free resources, including blog posts, webinars, and documentation, related to their web application security platform and other security services.
 
-#### Recommended Trainings
+{% embed url="https://www.cloudflare.com/en-au/learning/" %}
+
+#### Recommended Training
 
 * [Prevent DDoS attacks](https://developers.cloudflare.com/learning-paths/prevent-ddos-attacks/)
 * [Application Security](https://developers.cloudflare.com/learning-paths/application-security/) (Focus on `Security Center` chapter)
