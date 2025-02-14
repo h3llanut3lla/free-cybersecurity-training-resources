@@ -31,7 +31,7 @@ layout:
 
 This is an open-source project that aims to uplift cybersecurity resilience by providing a curated list of free cybersecurity training resources. It’s designed for individuals who want to gain knowledge for entry roles in cybersecurity and small to medium-sized businesses and organisations looking to educate their new starters without ~~significant~~ financial investment. These resources cover various topics from general cyber security awareness, blue team and red team training resources to cybersecurity career-related content.
 
-### Why Free Training Matters for Cybersecurity Resilience
+## Why Free Training Matters for Cybersecurity Resilience
 
 Cybersecurity resilience isn’t just about technology; it’s about people. Well-trained individuals are the first line of defence against cyber threats. Free training resources democratize access to cybersecurity knowledge, empowering more people to:
 
@@ -40,7 +40,7 @@ Cybersecurity resilience isn’t just about technology; it’s about people. Wel
 * Continuously learn, ensuring individuals stay up-to-date with the latest threats.
 * Develop in-demand cybersecurity skills like incident response, vulnerability management, penetration testing, etc. (While fully comprehensive training often requires paid courses, hopefully, these resources can provide a foundation.)
 
-### Curated Training Resources
+## Curated Training Resources
 
 This list is based on general knowledge of the cybersecurity field, widespread recognition within the community, and, in some cases, personal experience with the resources.&#x20;
 
@@ -48,7 +48,7 @@ It is regularly updated.&#x20;
 
 Please feel free to [contribute](./#contributing) by submitting pull requests with additional resources.
 
-### How to Use This Repository Effectively
+## How to Use This Effectively
 
 This repository is designed to be a starting point for your cybersecurity learning journey.&#x20;
 
@@ -63,24 +63,7 @@ Here are some ways to use it:
 7. **Contribute to the List:** As you learn and discover new resources, consider contributing them. See the [Contributing](./#contributing) section.
 8. **Get a Job in Cybersecurity:** If you are looking to find a job in cybersecurity, refer to [Cybersecurity Career Related Resources.](broken-reference)
 
-### How to Clone and Use This Repository (Optional)
-
-* Open your terminal or command prompt.
-* **Windows:**
-  * Open PowerShell or Command Prompt.
-  * Navigate to the directory where you want to store the repository using the `cd` command (e.g., `cd C:\\Users\\YourName\\Documents`).
-* **macOS & Linux:**
-  * Open Terminal.
-  * Navigate to the directory using `cd` (e.g., `cd /Users/YourName/Documents`).
-*   Run the following command (for all OS):
-
-    ```bash
-    git clone [<https://github.com/>](<https://github.com/>)[your-username]/[repository-name].git
-    ```
-
-For more information, please refer to [Github’s official guide for cloning a repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository).
-
-### Contributing
+## Contributing
 
 I welcome contributions to this repository! Please follow these guidelines:
 
@@ -91,10 +74,10 @@ I welcome contributions to this repository! Please follow these guidelines:
 * Ideas/feedback are welcomed under the _Discussions_ of this repository.
 * I believe basic cybersecurity knowledge should be accessible to everyone, regardless of language. This project is looking for contributors to translate this resource into different languages. Your language skills and local insights are invaluable! If you'd like to help with translation or have local resources to share, please reach out to [hellanutella00@gmail.com](https://app.gitbook.com/u/mtfgfsWtRFarO3zFVoPmDvo2osx1).
 
-### Disclaimer
+## Disclaimer
 
 This list is provided for informational purposes only. I do not endorse any specific resource and am not responsible for the content provided by external websites. I am not financially affiliated with any of the content providers. The effectiveness of any training resource may vary. Always conduct your own research to ensure the resources meet your specific needs.
 
-### Jump right in!
+## Jump right in!
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Getting Started</strong></td><td>Guides to your cybersecurity journey</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/clemens-van-lay-5eThdzpVqyE-unsplash.jpg">clemens-van-lay-5eThdzpVqyE-unsplash.jpg</a></td></tr><tr><td><strong>General Cybersecurity Awareness</strong></td><td>Essential for <em>everyone</em></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/flyd-mT7lXZPjk7U-unsplash.jpg">flyd-mT7lXZPjk7U-unsplash.jpg</a></td></tr><tr><td><strong>Blue Team Training Resources</strong></td><td>For SOC analysts, incident responders, threat hunters, and security engineers</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/steve-johnson-dVRD8E3XUGs-unsplash.jpg">steve-johnson-dVRD8E3XUGs-unsplash.jpg</a></td></tr><tr><td><strong>Red Team Training Resources</strong></td><td>From n00b 2 root</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/montylov-HyBXy5PHQR8-unsplash.jpg">montylov-HyBXy5PHQR8-unsplash.jpg</a></td></tr><tr><td><strong>Recommended Paid Trainings</strong></td><td>More advanced courses that are worth your money, time, and effort</td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/jp-valery-blOLCO2K4M0-unsplash.jpg">jp-valery-blOLCO2K4M0-unsplash.jpg</a></td></tr><tr><td><strong>Cybersecurity Career Related Resources</strong></td><td>Resources that will help you get a foothold</td><td></td><td><a href=".gitbook/assets/clark-tibbs-oqStl2L5oxI-unsplash.jpg">clark-tibbs-oqStl2L5oxI-unsplash.jpg</a></td></tr></tbody></table>
