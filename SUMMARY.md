@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [🇰🇷 소개](readme-1.md)
+* [🇰🇷 무료 사이버 보안 트레이닝 자료](readme-1.md)
 
 ## Getting Started
 
