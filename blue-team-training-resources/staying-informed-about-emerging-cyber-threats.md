@@ -39,7 +39,32 @@ icon: square-rss
 **2. Security News and Publications**
 
 * **Threatpost:** You read an article on Threatpost about a rise in phishing attacks targeting small businesses. _Example:_ You review your organization's email filtering rules and consider implementing additional anti-phishing measures.
-* **Krebs on Security:** Brian Krebs often reports on major data breaches. _Example:_ After reading about a breach caused by weak passwords, you remind your employees about the importance of using strong, unique passwords and consider implementing multi-factor authentication (MFA).
+* **Krebs on Security:** Brian Krebs often reports on major data breaches. _Example:_ After reading about a breach caused by weak passwords, you remind your employees about the importance of u
+* **The Hacker News:** Delivers daily cybersecurity news, vulnerability reports, and information on new attack techniques. (thehackernews.com)
+* **BleepingComputer:** Covers security news, malware analysis, and vulnerability disclosures. (bleepingcomputer.com)
+* **Dark Reading:** Provides insights and analysis on enterprise security topics, with a focus on strategy and management. (darkreading.com)
+* **CSO Online:** Offers news, analysis, and opinion pieces on cybersecurity, with a focus on business and enterprise security. (csoonline.com)
+* **SearchSecurity (TechTarget):** Covers a broad range of security topics, including data breaches, compliance, and risk management. (searchsecurity.techtarget.com)
+
+<details>
+
+<summary>Using <a href="https://feedly.com">Feedly</a></summary>
+
+Feedly is a great tool for keeping up with cybersecurity news.&#x20;
+
+First, create a free account at feedly.com.&#x20;
+
+Then, find sources by searching keywords like "cybersecurity news" or the names of publications (e.g., "Threatpost").&#x20;
+
+You can also browse categories or import a list of feeds. Subscribe to the sources you like by clicking "+ Follow."&#x20;
+
+Organize these into collections (like folders) such as "General News," "Threat Intel," or "Vulnerability Management."&#x20;
+
+</details>
+
+
+
+
 
 **3. Community Engagement and Networking**
 
