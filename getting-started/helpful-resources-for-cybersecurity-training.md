@@ -8,7 +8,7 @@ coverY: 0
 
 # Helpful Resources for Cybersecurity Training
 
-## **Platforms with Courses and Learning Paths:**
+## **Platforms with Courses and Learning Paths**
 
 * [**Coursera**](https://www.coursera.org/)**:** Offers courses from universities and organizations, some leading to professional certificates.
 * [**edX**](https://www.edx.org/)**:** Similar to Coursera, with a focus on university-level courses and programs.
@@ -19,33 +19,31 @@ coverY: 0
 * [**Pluralsight**](https://www.pluralsight.com/)**:** Provides a wide range of tech and security training, including learning paths.
 * [**LinkedIn Learning (formerly Lynda.com):**](https://www.linkedin.com/learning) Offers courses on various skills, including cybersecurity.
 
-## **Free Resources and Communities:**
+## **Free Resources and Communities**
 
-* **NIST Cybersecurity Framework:** A valuable resource for understanding cybersecurity best practices.10 (nist.gov/cyberframework)
-* **OWASP (Open Web Application Security Project):** Provides resources and tools for web application security.11 (owasp.org)
-* **SANS Institute Resources:** SANS often releases white papers, webcasts, and other free resources.12 (sans.org)
-* **NIST NICE Framework:** Provides a framework for cybersecurity workforce development.13 (nist.gov/nice)
-* **Cybersecurity and Infrastructure Security Agency (CISA):** Offers alerts, advisories, and resources on cybersecurity threats.14 (cisa.gov)
-* **Reddit:** Subreddits like r/netsec, r/cybersecurity, and r/blueteamsec can be good places to ask questions and find resources.
+* [**NIST Cybersecurity Framework:** ](https://www.nist.gov/cyberframework)A valuable resource for understanding cybersecurity best practices.
+* [**OWASP (Open Web Application Security Project):**](https://owasp.org/www-project-top-ten/) Provides resources and tools for web application security.
+* [**SANS Institute Resources:** SANS](https://www.sans.org/security-resources/) often releases white papers, webcasts, and other free resources.
+* [**NIST NICE Framework:**](https://www.nist.gov/itl/applied-cybersecurity/nice) Provides a framework for cybersecurity workforce development.
+* [**Cybersecurity and Infrastructure Security Agency (CISA):** ](https://www.cisa.gov/)Offers alerts, advisories, and resources on cybersecurity threats.
+* **Reddit:** Subreddits like [r/cybersecurity](https://www.reddit.com/r/cybersecurity), and [r/blueteamsec](https://www.reddit.com/r/blueteamsec) can be good places to ask questions and find resources.
 
-## **Capture the Flag (CTF) Platforms:**
+## **Capture the Flag (CTF) Platforms**
 
-* **TryHackMe:** A platform with guided, hands-on CTF challenges.15 (tryhackme.com)
-* **HackTheBox:** Another popular CTF platform with a variety of challenges.16 (hackthebox.eu)
-* **OverTheWire:** Offers wargames that teach security concepts through challenges. (overthewire.org)
-* **CTFlearn:** A platform with a large collection of CTF challenges.17 (ctflearn.com)
+* [**TryHackMe:**](https://tryhackme.com/) A platform with guided, hands-on CTF challenges.
+* [**HackTheBox Labs:** ](https://www.hackthebox.com/hacker/hacking-labs)Another popular CTF platform with a variety of challenges.
+* [**VulnHub:**](https://www.vulnhub.com/) A collection of vulnerable virtual machines that you can download and practice on. Great for practicing penetration testing and vulnerability exploitation.&#x20;
 
-## **Other Helpful Resources:**
+## **Postcasts**
 
-* **Books:** Many excellent cybersecurity books are available. Search for books on specific topics you're interested in.
-* **Podcasts:** Several podcasts focus on cybersecurity topics.18
-* **Conferences:** Attending cybersecurity conferences can be a great way to learn and network.
+### **For News and Current Events**
 
-## **Tips for Choosing Resources:**
+* [**Cyber Security Headlines:**](https://cisoseries.com/category/podcast/cyber-security-headlines/) A daily podcast delivering bite-sized cybersecurity news updates, perfect for staying up-to-date on the latest threats and vulnerabilities.  &#x20;
+* [**The CyberWire Daily:** ](https://thecyberwire.com/podcasts/daily-podcast)Provides daily cybersecurity news and analysis, along with interviews with experts from various fields.  &#x20;
 
-* **Your Skill Level:** Choose resources that are appropriate for your current skill level.
-* **Your Learning Style:** Some people prefer online courses, while others prefer hands-on challenges or books.
-* **Your Goals:** Consider your career goals and choose resources that will help you achieve them.
-* **Reviews:** Read reviews of courses and resources before you invest time or money.
+### **For Technical Deep Dives and Expert Insights**
 
-Remember that continuous learning is crucial in cybersecurity. Stay updated with the latest threats and technologies by actively engaging with these resources and communities.
+* [**Risky Business:**](https://risky.biz/) Features in-depth discussions and interviews with security experts, covering a variety of topics from vulnerability management to incident response.  &#x20;
+* [**Security Now:**](https://twit.tv/shows/security-now) Hosted by Steve Gibson and Leo Laporte, this long-running podcast covers a wide range of security topics with in-depth explanations and discussions.  &#x20;
+
+For more information, please refer to [here](https://www.splunk.com/en_us/blog/learn/cybersecurity-podcasts.html).
