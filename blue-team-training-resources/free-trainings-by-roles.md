@@ -184,11 +184,11 @@ Identifying, assessing, and remediating vulnerabilities.
 * **(ISC)² Certified Information Systems Security Professional (CISSP):** Though broader than just vulnerability management, the CISSP covers security management principles, including risk management and security architecture. Valuable for senior roles or those wanting a wider security perspective. (isc2.org)
 * **Certified Ethical Hacker (CEH):** Understanding how attackers think and operate is crucial for a vulnerability management analyst. The CEH provides insights into attack vectors and vulnerabilities, helping you prioritize and remediate weaknesses effectively. (eccouncil.org)
 
-#### **Vendor-Specific Certifications:**
+#### **Vendor-Specific Certifications**
 
 * Many vulnerability management analysts work with specific tools like Nessus, QualysGuard, or OpenVAS. Vendor-specific certifications for these tools can demonstrate your proficiency and make you more valuable to employers.
 
-### **Free Training Resources:**
+### **Free Training Resources**
 
 * **NIST National Vulnerability Database (NVD):** A great resource for vulnerability information. ([nvd.nist.gov](https://www.google.com/url?sa=E\&source=gmail\&q=https://nvd.nist.gov/))
 * **OpenVAS:** An open-source vulnerability scanner you can use to learn about vulnerability scanning.
