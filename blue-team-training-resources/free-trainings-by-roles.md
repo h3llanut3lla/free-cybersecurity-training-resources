@@ -24,12 +24,12 @@ Monitoring, log analysis, threat intelligence research, and basic incident respo
 
 #### **Foundational and Entry-Level**
 
-* **CompTIA Security+:** A great starting point. It validates fundamental security knowledge and is often a prerequisite for more advanced certifications. Covers basic security concepts, threats, vulnerabilities, and security best practices.
-* **CompTIA CySA+ (Cybersecurity Analyst+):** Specifically designed for security analysts. Focuses on security monitoring, threat detection, vulnerability management, and incident response. A very relevant certification for SOC analysts.
+* [**CompTIA Security+:**](https://www.comptia.org/certifications/security) A great starting point. It validates fundamental security knowledge and is often a prerequisite for more advanced certifications. Covers basic security concepts, threats, vulnerabilities, and security best practices.
+* [**CompTIA CySA+ (Cybersecurity Analyst+):** ](https://www.comptia.org/certifications/cybersecurity-analyst)Specifically designed for security analysts. Focuses on security monitoring, threat detection, vulnerability management, and incident response. A very relevant certification for SOC analysts.
 
 #### **Intermediate and Specialized**
 
-* **(ISC)² Certified Information Systems Security Professional (CISSP):** While broader than just analysis, the CISSP demonstrates expertise in security management, including incident management, risk management, and security architecture. Highly valued, but typically requires several years of experience. More suited for senior analysts or those aspiring to management roles.
+* [**(ISC)² Certified Information Systems Security Professional (CISSP):**](https://www.isc2.org/certifications/cissp) While broader than just analysis, the CISSP demonstrates expertise in security management, including incident management, risk management, and security architecture. Highly valued, but typically requires several years of experience. More suited for senior analysts or those aspiring to management roles.
 
 #### **GIAC certifications:**
 
@@ -41,27 +41,23 @@ SANS Institute offers a range of specialized certifications that can be very ben
 While the quality of the training is often highly regarded, it's crucial to factor the cost into your decision and consider whether your employer will sponsor the training. There are often more affordable alternatives available, especially for foundational knowledge, so carefully weigh the benefits and costs before investing in SANS certifications.
 {% endhint %}
 
-* **GIAC Security Essentials (GSEC):** Covers fundamental security concepts and skills, a good stepping stone if you don't yet have Security+.
-* **GIAC Certified Incident Handler (GCIH):** While focused on incident handling, the skills covered are very relevant to security analysts who often play a role in incident response.
-* **GIAC Network Forensic Analyst (GNFA):** Develops skills in network traffic analysis, a valuable skill for threat detection and incident investigation.
-* **GIAC Penetration Tester (GPEN) or GIAC Web Application Penetration Tester (GWAPT):** While focused on offensive security, understanding penetration testing methodologies can significantly improve an analyst's ability to identify and assess vulnerabilities.
+* [**GIAC Security Essentials (GSEC):** ](https://www.giac.org/certifications/security-essentials-gsec/)Covers fundamental security concepts and skills, a good stepping stone if you don't yet have Security+.
+* [**GIAC Certified Incident Handler (GCIH):**](https://www.giac.org/certifications/certified-incident-handler-gcih/) While focused on incident handling, the skills covered are very relevant to security analysts who often play a role in incident response.
 
 #### **Microsoft Certifications**
 
-If you work in a Microsoft-heavy environment, certifications like the Microsoft Certified: Security Operations Analyst Associate are highly relevant. This validates skills in using Microsoft security tools and services.
+If you work in a Microsoft-heavy environment, certifications like the [Microsoft Certified: Security Operations Analyst Associate](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/?practice-assessment-type=certification) are highly relevant. This validates skills in using Microsoft security tools and services.
 
-#### **Cloud-Specific Certifications:**&#x20;
+#### **Cloud-Specific Certifications**
 
 For analysts working in cloud environments (AWS, Azure, GCP), cloud security certifications are essential.
 
 ### Helpful Resources
 
-* **Cybersecurity Fundamentals:** Start with free introductory courses on platforms like Cybrary ([cybrary.it](https://www.cybrary.it/)), Coursera (look for introductory courses), and edX ([edx.org](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.edx.org/)). Focus on networking basics, security concepts, and operating system fundamentals.
-* **SIEM Training (Free Tiers/Trials):** Splunk (Fundamentals 1 - [splunk.com](https://www.splunk.com/)), Elastic (basic security courses - [elastic.co](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.elastic.co/)) and other SIEM vendors often have free tiers or trials you can use for learning the basics of log analysis and event correlation.
+* **Cybersecurity Fundamentals:** Start with free introductory courses on platforms like [Cybrary](https://www.cybrary.it) [Coursera](https://www.coursera.org/) (look for introductory courses), and [edX](https://www.edx.org/). Focus on networking basics, security concepts, and operating system fundamentals.
+* **SIEM Training (Free Tiers/Trials):** Splunk (See [Trainings by Vendors](trainings-by-vendors.md) for more details) and other SIEM vendors often have free tiers or trials you can use for learning the basics of log analysis and event correlation.
 * **Threat Intelligence Platforms (Free Versions/Trials):** Many threat intelligence platforms have free versions or trials that allow you to explore how threat data is collected, analyzed, and used. Research individual platforms for their offerings.
-* **NIST Cybersecurity Framework Resources:** Familiarize yourself with the NIST Cybersecurity Framework. NIST provides free publications and resources on security best practices. ([nist.gov](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.nist.gov/cyberframework))
-* **NCSA and CISA Resources:** These organizations offer free guides and resources on various cybersecurity topics, including incident response and threat awareness. (NCSA: [staysafeonline.org](https://staysafeonline.org/), CISA: [cisa.gov](https://www.cisa.gov/))
-* **Practice Labs (Free/Low-Cost Options):** Try setting up a virtual lab environment using VirtualBox ([virtualbox.org](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.virtualbox.org/)) or VMware Player ([vmware.com](https://www.google.com/url?sa=E\&source=gmail\&q=https://www.vmware.com/)). There are free vulnerable virtual machines available online (e.g., Metasploitable) that you can use for practice.
+* **NIST Cybersecurity Framework Resources:** Familiarize yourself with the [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework). NIST provides free publications and resources on security best practices.&#x20;
 
 ## Incident Responder
 
@@ -71,7 +67,7 @@ Incident handling, containment, eradication, recovery, forensics.
 
 ### Core Incident Response Certifications
 
-* **GIAC Certified Incident Handler (GCIH):** A highly respected certification that validates skills in handling security incidents. It covers incident response methodologies, threat analysis, and containment strategies. Offered by SANS Institute.
+* [**GIAC Certified Incident Handler (GCIH):**](https://www.giac.org/certifications/certified-incident-handler-gcih/) A highly respected certification that validates skills in handling security incidents. It covers incident response methodologies, threat analysis, and containment strategies. Offered by SANS Institute.
 * **Certified Incident Handler (CIH):** Focuses on the essential skills and knowledge required for effective incident handling. Covers incident response lifecycle, analysis, and mitigation techniques. Offered by EC-Council.
 
 ### Related and Beneficial Certifications
