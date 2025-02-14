@@ -65,29 +65,10 @@ For analysts working in cloud environments (AWS, Azure, GCP), cloud security cer
 
 Incident handling, containment, eradication, recovery, forensics.
 
-### Core Incident Response Certifications
+### Specialized Certifications
 
 * [**GIAC Certified Incident Handler (GCIH):**](https://www.giac.org/certifications/certified-incident-handler-gcih/) A highly respected certification that validates skills in handling security incidents. It covers incident response methodologies, threat analysis, and containment strategies. Offered by SANS Institute.
-* **Certified Incident Handler (CIH):** Focuses on the essential skills and knowledge required for effective incident handling. Covers incident response lifecycle, analysis, and mitigation techniques. Offered by EC-Council.
-
-### Related and Beneficial Certifications
-
-* **CompTIA CySA+:** While not solely focused on incident response, it covers security analysis skills, including threat detection and incident response fundamentals. A good foundational certification.
-* **CompTIA Security+:** A foundational certification demonstrating basic security knowledge, which is helpful for any cybersecurity role, including incident response.
-* **(ISC)² Certified Information Systems Security Professional (CISSP):** While broader than just incident response, the CISSP covers security management and includes a domain on incident management. Valuable for senior incident responders or those moving into management roles.
-* **GIAC certifications (beyond GCIH):** SANS Institute offers various specialized GIAC certifications related to incident response, such as:
-* **GIAC Certified Forensic Analyst (GCFA):** Focuses on digital forensics skills, crucial for in-depth incident investigations.
-* **GIAC Reverse Engineering Malware (GREM):** Develops skills in analyzing malware, which is essential for understanding and responding to many incidents.
-* **GIAC Network Forensic Analyst (GNFA):** Focuses on network traffic analysis, a valuable skill for incident responders.
-* **Microsoft Certifications:** If your environment heavily uses Microsoft products, certifications related to Azure security, Windows Server, and other Microsoft technologies can be beneficial for incident response within that ecosystem. Look into certifications like the Microsoft Certified: Security Operations Analyst Associate.
-* **Cloud-Specific Certifications:** If you work in a cloud environment (AWS, Azure, GCP), certifications related to cloud security and incident response in those specific platforms will be valuable. For example, AWS Certified Security Specialty.
-
-### Helpful Resources
-
-* **NIST Incident Handling Guide:** This is a must-read. NIST provides a comprehensive guide to incident response. ([nist.gov](https://www.google.com/search?q=https://www.nist.gov/itl/csd/cybersecurity-incident-handling-guide))
-* **SANS Institute (Free Resources):** SANS occasionally offers free webcasts and white papers on incident response topics. ([sans.org](https://www.sans.org/))
-* **Open Source DFIR Tools:** Learn to use open-source digital forensics and incident response tools like The Sleuth Kit (TSK) and Autopsy. There are many free tutorials available online.
-* **MITRE ATT\&CK Framework:** Understand how to use the MITRE ATT\&CK framework for mapping adversary tactics, techniques, and procedures (TTPs) to incident response activities. ([mitre.org](https://www.mitre.org/))
+* [**EC-Council Certified Incident Handler (ECIH):** ](https://www.eccouncil.org/train-certify/ec-council-certified-incident-handler-ecih/)Focuses on the essential skills and knowledge required for effective incident handling. Covers incident response lifecycle, analysis, and mitigation techniques.&#x20;
 
 ## Threat Hunter
 
@@ -99,21 +80,17 @@ Proactive threat searching, identifying advanced persistent threats (APTs), and 
 
 Certifications specifically for Threat Hunters are less common than general cybersecurity certifications, as threat hunting is often considered a specialized skill set built upon a foundation of other security knowledge. However, several certifications can significantly benefit a threat hunter by validating relevant skills and knowledge.
 
-### **Relevant Certifications**
+### **Kind of Relevant Certifications**
 
-* **GIAC GCIH (Certified Incident Handler):** This is often cited as a valuable certification for threat hunters, as it covers incident response methodologies and skills that are relevant to threat hunting.
-* **GIAC GCIA (Certified Intrusion Analyst):** This is recommended for its focus on network intrusion detection and analysis, which are important skills for threat hunters.
-* **GIAC GCFA (Certified Forensic Analyst):** This is seen as valuable for threat hunters who need to perform in-depth investigations and analyze digital evidence.
-* **GIAC GREM (Reverse Engineering Malware):** This is recommended for threat hunters who need to analyze malware to understand its behavior and identify potential threats.
-* **Offensive Security Certifications (OSCP, OSCE):** These are suggested for gaining a deeper understanding of attacker tactics and techniques.
+* [**GIAC GCIH (Certified Incident Handler):**](https://www.giac.org/certifications/certified-incident-handler-gcih/) This is often cited as a valuable certification for threat hunters, as it covers incident response methodologies and skills that are relevant to threat hunting.
+* [**GIAC GCIA (Certified Intrusion Analyst):** ](https://www.giac.org/certifications/certified-intrusion-analyst-gcia/)This is recommended for its focus on network intrusion detection and analysis, which are important skills for threat hunters.
+* [**GIAC GCFA (Certified Forensic Analyst):** ](https://www.giac.org/certifications/certified-forensic-analyst-gcfa/)This is seen as valuable for threat hunters who need to perform in-depth investigations and analyze digital evidence.
+* [**GIAC GREM (Reverse Engineering Malware):**](https://www.giac.org/certifications/reverse-engineering-malware-grem/) This is recommended for threat hunters who need to analyze malware to understand its behavior and identify potential threats.
+* **Offensive Security Certifications (**[**OSCP+**](https://www.offsec.com/courses/pen-200/)**):** These are suggested for gaining a deeper understanding of attacker tactics and techniques.
 
-### **Free Training Resources:**
-
-* **MITRE ATT\&CK Framework:** Mastering the MITRE ATT\&CK framework is essential for threat hunting. ([mitre.org](https://www.mitre.org/))
-* **Cybersecurity Blogs and Research Papers:** Follow security researchers and companies who publish threat intelligence and hunting techniques.
-* **OSINT Resources:** Learn how to use open-source intelligence (OSINT) techniques to gather information about potential threats.
-* **Endpoint Detection and Response (EDR) Trials:** Many EDR vendors offer free trials that you can use to learn about threat hunting techniques in a real-world environment. (Be mindful of the limitations and sales focus.)
-* **Practice Labs:** Set up a virtual lab and practice threat hunting scenarios.
+{% hint style="info" %}
+[Hack The Box Academy](https://academy.hackthebox.com) is rapidly developing job role paths modules, so I wouldn't be surprised if they announce a Threat Hunter path and a certification exam any time soon.
+{% endhint %}
 
 ## Security Engineer
 
@@ -121,45 +98,25 @@ Certifications specifically for Threat Hunters are less common than general cybe
 
 Designing, implementing, and maintaining security infrastructure.
 
-### Specialized Certifications (Focus on Specific Domains):
+### Certifications
 
-* **(ISC)² Certified Information Systems Security Professional (CISSP):** A highly regarded certification covering a wide range of security topics, including security architecture and design, which are core to security engineering. Often required for senior roles. (isc2.org)
-* **(ISC)² Certified Secure Software Lifecycle Professional (CSSLP):** Focuses specifically on secure software development practices, a crucial aspect of security engineering. Demonstrates expertise in building secure software from the ground up. (isc2.org)
+#### Specialized Certifications
 
-#### GIAC certifications
-
-SANS Institute offers various specialized certifications relevant to security engineering, though they can be costly: (sans.org)
-
-* **GIAC Security Engineer (GSE):** This is the most directly applicable GIAC certification for security engineers.
-* **GIAC Certified Incident Handler (GCIH):** Useful for engineers involved in incident response planning and system hardening.
-* **GIAC Network Security Engineer (GCNSE):** Focuses on network security design and implementation.
-* **GIAC Web Application Security Engineer (GWASE):** For engineers specializing in web application security.
+* [**(ISC)² Certified Secure Software Lifecycle Professional (CSSLP):**](https://www.isc2.org/certifications/csslp) Focuses specifically on secure software development practices, a crucial aspect of security engineering. Demonstrates expertise in building secure software from the ground up. &#x20;
 
 #### Cloud-Specific Certifications
 
 For security engineers working in cloud environments (AWS, Azure, GCP), cloud security certifications are essential. Examples include:
 
-* **AWS Certified Security Specialty** (aws.amazon.com)
-* **Microsoft Certified: Azure Security Engineer Associate** (learn.microsoft.com)
-* **Google Cloud Professional Cloud Security Engineer** (cloud.google.com)
+* [**AWS Certified Security Specialty**](https://aws.amazon.com/certification/certified-security-specialty/)
+* [**Microsoft Certified: Azure Security Engineer Associate**](https://learn.microsoft.com/en-us/credentials/certifications/azure-security-engineer/?practice-assessment-type=certification)&#x20;
+* [**Google Cloud Professional Cloud Security Engineer**](https://cloud.google.com/learn/certification/cloud-security-engineer)
 
 #### Other certifications
 
-* **Certified Ethical Hacker (CEH):** While an offensive security certification, understanding how attackers think can be very beneficial for security engineers designing defensive systems. (eccouncil.org)
 * **Vendor-Specific Certifications:** Depending on the technologies you work with, vendor-specific certifications (e.g., Cisco, Palo Alto Networks, Check Point) can be beneficial.&#x20;
 * **DevSecOps Certifications:** As DevSecOps becomes more prevalent, certifications related to secure software development and deployment pipelines are increasingly valuable.&#x20;
-* **Kubernetes Security Certifications:** With the rise of containerization, certifications related to Kubernetes security are becoming important for security engineers.
-
-#### Advanced Certifications (For Experienced Professionals):
-
-* CISSP-ISSAP (Information Systems Security Architecture Professional): An advanced concentration of the CISSP, focusing on security architecture. For senior security engineers and architects. (isc2.org)&#x20;
-
-### **Free Training Resources:**
-
-* **Vendor-Specific Training (Free Tiers/Trials):** Cloud providers (AWS, Azure, GCP) and security vendors (Cisco, Fortinet, etc.) offer free training on their products. While vendor-focused, the knowledge gained can be applied more generally.
-* **Networking Fundamentals:** A strong understanding of networking is crucial. Look for free networking courses or materials online.
-* **Security Certifications (Study Materials):** While certification exams cost money, many certification bodies (e.g., CompTIA, (ISC)²) offer free study guides and resources that can be helpful.
-* **OWASP Resources:** If you're focused on web application security, OWASP provides a wealth of free information. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
+* **Kubernetes Security Certifications:** With the rise of containerization, certifications related to Kubernetes security are becoming important for security engineers. ([CKS](https://training.linuxfoundation.org/certification/certified-kubernetes-security-specialist/))
 
 ## Vulnerability Management Analyst
 
@@ -186,9 +143,9 @@ Identifying, assessing, and remediating vulnerabilities.
 
 ### **Free Training Resources**
 
-* **NIST National Vulnerability Database (NVD):** A great resource for vulnerability information. ([nvd.nist.gov](https://www.google.com/url?sa=E\&source=gmail\&q=https://nvd.nist.gov/))
+* **NIST National Vulnerability Database (NVD):** A great resource for vulnerability information. (nvd.nist.gov)
 * **OpenVAS:** An open-source vulnerability scanner you can use to learn about vulnerability scanning.
-* **Nessus Essentials (Personal Use):** Tenable offers a free version of Nessus for personal use, which can be useful for learning. ([tenable.com](https://www.google.com/search?q=https://www.tenable.com/vulnerability-management/nessus-essentials))
-* **OWASP Vulnerabilities:** Learn about common web application vulnerabilities through OWASP resources. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
-* **SANS Institute (Free Resources):** SANS offers some free resources related to vulnerability management. ([sans.org](https://www.sans.org/))
+* **Nessus Essentials (Personal Use):** Tenable offers a free version of Nessus for personal use, which can be useful for learning. (tenable.com)
+* **OWASP Vulnerabilities:** Learn about common web application vulnerabilities through OWASP resources. (owasp.org)
+* **SANS Institute (Free Resources):** SANS offers some free resources related to vulnerability management. (sans.org)
 * **Vulnerability Scanning Tutorials:** Search for free tutorials and guides on how to use vulnerability scanning tool
