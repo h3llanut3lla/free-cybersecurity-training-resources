@@ -165,13 +165,34 @@ For security engineers working in cloud environments (AWS, Azure, GCP), cloud se
 * **Security Certifications (Study Materials):** While certification exams cost money, many certification bodies (e.g., CompTIA, (ISC)²) offer free study guides and resources that can be helpful.
 * **OWASP Resources:** If you're focused on web application security, OWASP provides a wealth of free information. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
 
-### Vulnerability Management Analyst
+## Vulnerability Management Analyst
 
-* **Focus:** Identifying, assessing, and remediating vulnerabilities.
-* **Free Training Resources:**
-  * **NIST National Vulnerability Database (NVD):** A great resource for vulnerability information. ([nvd.nist.gov](https://www.google.com/url?sa=E\&source=gmail\&q=https://nvd.nist.gov/))
-  * **OpenVAS:** An open-source vulnerability scanner you can use to learn about vulnerability scanning.
-  * **Nessus Essentials (Personal Use):** Tenable offers a free version of Nessus for personal use, which can be useful for learning. ([tenable.com](https://www.google.com/search?q=https://www.tenable.com/vulnerability-management/nessus-essentials))
-  * **OWASP Vulnerabilities:** Learn about common web application vulnerabilities through OWASP resources. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
-  * **SANS Institute (Free Resources):** SANS offers some free resources related to vulnerability management. ([sans.org](https://www.sans.org/))
-  * **Vulnerability Scanning Tutorials:** Search for free tutorials and guides on how to use vulnerability scanning tool
+### **Focus**
+
+Identifying, assessing, and remediating vulnerabilities.
+
+### Certifications
+
+**Specialized Certifications**&#x20;
+
+* **GIAC Enterprise Vulnerability Assessor (GEVA):** This certification directly focuses on vulnerability assessment methodologies, planning, and tools. It validates your expertise in identifying and analyzing vulnerabilities. (sans.org)
+* **Certified Vulnerability Assessor (CVA):** This certification, offered by organizations like Mile2, focuses on the skills needed to conduct vulnerability assessments, including using various tools and techniques. (mile2.com)
+* **CompTIA PenTest+:** While focused on penetration testing, this cert covers vulnerability scanning and analysis, as well as remediation strategies. Understanding how pen testers find weaknesses can help you proactively identify them. (comptia.org)
+
+#### **Related and Beneficial Certifications**
+
+* **(ISC)² Certified Information Systems Security Professional (CISSP):** Though broader than just vulnerability management, the CISSP covers security management principles, including risk management and security architecture. Valuable for senior roles or those wanting a wider security perspective. (isc2.org)
+* **Certified Ethical Hacker (CEH):** Understanding how attackers think and operate is crucial for a vulnerability management analyst. The CEH provides insights into attack vectors and vulnerabilities, helping you prioritize and remediate weaknesses effectively. (eccouncil.org)
+
+#### **Vendor-Specific Certifications:**
+
+* Many vulnerability management analysts work with specific tools like Nessus, QualysGuard, or OpenVAS. Vendor-specific certifications for these tools can demonstrate your proficiency and make you more valuable to employers.
+
+### **Free Training Resources:**
+
+* **NIST National Vulnerability Database (NVD):** A great resource for vulnerability information. ([nvd.nist.gov](https://www.google.com/url?sa=E\&source=gmail\&q=https://nvd.nist.gov/))
+* **OpenVAS:** An open-source vulnerability scanner you can use to learn about vulnerability scanning.
+* **Nessus Essentials (Personal Use):** Tenable offers a free version of Nessus for personal use, which can be useful for learning. ([tenable.com](https://www.google.com/search?q=https://www.tenable.com/vulnerability-management/nessus-essentials))
+* **OWASP Vulnerabilities:** Learn about common web application vulnerabilities through OWASP resources. ([owasp.org](https://www.google.com/search?q=https://owasp.org/))
+* **SANS Institute (Free Resources):** SANS offers some free resources related to vulnerability management. ([sans.org](https://www.sans.org/))
+* **Vulnerability Scanning Tutorials:** Search for free tutorials and guides on how to use vulnerability scanning tool
