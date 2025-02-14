@@ -24,12 +24,12 @@
 
 ## Red Team Training Resources
 
-* [Trainings by Vendors](red-team-training-resources/trainings-by-vendors.md)
+* [Training by Vendors](red-team-training-resources/trainings-by-vendors.md)
 * [Certifications](red-team-training-resources/certifications.md)
 
-## Recommended Paid Trainings
+## Recommended Paid Training
 
-* [Page 4](recommended-paid-trainings/page-4.md)
+* [Page 4](recommended-paid-training/page-4.md)
 
 ## Cyber Security Career Related Resources
 

@@ -69,7 +69,13 @@ Splunk offers free training courses through its Splunk Education platform, cover
 
 ### Microsoft Sentinel
 
-**Microsoft Sentinel:** Microsoft provides documentation, learning paths on Microsoft Learn, and occasionally free trials or workshops related to their cloud-native SIEM, Microsoft Sentinel. [microsoft.com/en-us/azure/sentine](https://www.google.com/search?q=https://www.microsoft.com/en-us/azure/sentinel)
+Microsoft provides documentation, learning paths on Microsoft Learn, and occasionally free trials or workshops related to their cloud-native SIEM, Microsoft Sentinel. [microsoft.com/en-us/azure/sentine](https://www.google.com/search?q=https://www.microsoft.com/en-us/azure/sentinel)
+
+#### Recommended Training
+
+* [Introduction to Microsoft Sentinel](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/)
+* [Microsoft Sentinel Skill-Up Training](https://learn.microsoft.com/en-us/azure/sentinel/skill-up-resources)\
+
 
 
 
