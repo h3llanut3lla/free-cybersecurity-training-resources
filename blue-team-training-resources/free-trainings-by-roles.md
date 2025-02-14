@@ -10,6 +10,8 @@ coverY: 0
 
 # Certifications by Roles
 
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
+
 This page helps cybersecurity professionals determine the best training to boost their careers. It breaks down recommended skills and knowledge by common blue team roles (like Security Analyst, Incident Responder, Threat Hunter, or Security Engineer) so you can easily see what's most important to learn for _your_ career path. For each role, you'll find relevant training topics, certifications, and helpful resources to help you level up your skills.
 
 ## Security Analyst (Entry-Level/Junior)
