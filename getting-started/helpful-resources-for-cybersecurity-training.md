@@ -1,3 +1,10 @@
+---
+icon: info
+cover: >-
+  https://images.unsplash.com/photo-1563393934034-21b781d905ef?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw1fHxoZWxwfGVufDB8fHx8MTczOTQ5MTc0MHww&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Helpful Resources for Cybersecurity Training
 
 Here are some helpful resources for cybersecurity training, categorized for easier browsing:
